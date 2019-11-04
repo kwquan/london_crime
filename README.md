@@ -1,4 +1,4 @@
-# london_crime
+# london_crime_stats
 A data-centric approach for the London Knife Pandemic
 
 In recent years, news reports indicate a rise in knife attacks in London. Using the London Crime Statistics dataset provided by Google,
